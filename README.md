@@ -1,39 +1,76 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+ # Burley Beefs Gym
 
-Welcome,
+ ## About BB Gym
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+Burley Beefs Gym (BB Gym) website is for users to locate and get a 'feel' for the gym. 
+New and frequent visiotrs can find information and contact / location details of the gym with ease.
+The site will show the space, some equipment and give a friendly atmosphere with emphasis on 'serious training'.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **May 11th, 2023**
+The website can be accessed via this **** 
 
-## Codeanywhere Reminders
+## User Stories /  Goals
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+### First Time Visitor Goals:
+* As a first time visitor I would want to see with ease what the websites purpose is. In this instance, showing a gym with title and highlighting it is a gym.
 
-`python3 -m http.server`
+* Additionally, I need to easily navigate my way around the website to access the details i need. 
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+* Furthermore, I would want the site to show the organisation is trustworthly and worth visiting for a membership.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+### Returning Visitor Goals
 
-`http_server`
+* As a returning visitor i would want to have access to the gym contact details.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+* I may want to see if i have been showcased in the show room photography.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+* Also have access to additional information about the organisation through their socials.
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+* As an avid user I would want access to classes dates/times and sign up.
 
-To log into the Heroku toolbelt CLI:
+* I would in addition have access to a  Personal trainer (PT)if desired.
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+### Company Goals.
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+* For new visitors to contact the organisation and sign up for a membership.
 
----
+* For new/current members to access and sign up to classes.
 
-Happy coding!
+* For new/current members to access and sign up to PT sessions. 
+
+
+
+## Features
+
+## Home Page
+
+## Show Room
+
+## Classes
+
+## Contact
+
+## Design
+
+## Wireframes
+
+## Testing
+Browsers
+
+Responsive
+
+Manual testing
+
+Bugs
+
+## Set up 
+Deployment
+
+Local Deployment 
+
+## Tools
+
+## Languages
+
+## Credit
+
+## Acknowledgements
