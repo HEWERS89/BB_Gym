@@ -1,8 +1,8 @@
- # Burley Beefs Gym
+# Beefs & Babe Gym
 
  ## About BB Gym
 
-Burley Beefs Gym (BB Gym) website is for users to locate and get a 'feel' for the gym. 
+Beefs & Babe Gym (BB Gym) website is for users to locate and get a 'feel' for the gym. 
 New and frequent visiotrs can find information and contact / location details of the gym with ease.
 The site will show the space, some equipment and give a friendly atmosphere with emphasis on 'serious training'.
 
@@ -13,9 +13,12 @@ The website can be accessed via this ****
 ### First Time Visitor Goals:
 * As a first time visitor I would want to see with ease what the websites purpose is. In this instance, showing a gym with title and highlighting it is a gym.
 
-* Additionally, I need to easily navigate my way around the website to access the details i need. 
+* Additionally, I need to easily navigate my way around the website to access the details i need. Access to social media and contact details.
+
+* I would also need to easily find what classes are on offer and what times, to be able to book around my schedule.
 
 * Furthermore, I would want the site to show the organisation is trustworthly and worth visiting for a membership.
+
 
 ### Returning Visitor Goals
 
@@ -73,4 +76,4 @@ Local Deployment
 
 ## Credit
 
-## Acknowledgements
+## Acknowledgements**
