@@ -1,0 +1,39 @@
+#page-container{
+    margin:auto;
+    position: relative;
+    min-height:100vh;
+}
+
+#content-wrap{
+    padding-bottom:2.5rem
+}
+
+/*-----header---------*/
+
+
+
+/*-----body---------*/
+
+
+/*-----footer---------*/
+
+footer{
+    background-color: black; 
+    height: 200%;
+}
+    
+
+.social-media {
+    text-align: center;
+}
+
+.social-media li {
+    display: inline;    
+}
+    
+.social-media i{
+    font-size: 150%;
+    margin: 1%;
+    padding:5%;
+    color: rgb(146, 140, 140);
+}
