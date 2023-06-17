@@ -15,10 +15,17 @@
 /*-----body---------*/
 
 
+
+
+
+
+
+
 /*-----footer---------*/
 
 footer{
     background-color: black; 
+    opacity: 0.8;
     height: 200%;
 }
     
@@ -36,4 +43,10 @@ footer{
     margin: 1%;
     padding:5%;
     color: rgb(146, 140, 140);
+    
+}
+
+i:hover{
+   color: rgb(251, 250, 250);
+   font-size: 200%;
 }
