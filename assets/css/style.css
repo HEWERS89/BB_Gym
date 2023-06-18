@@ -1,3 +1,34 @@
+
+/*-----navbar---------*/
+.nav_bar div {
+    background-color: black;
+    opacity: 0.8;
+    height: 200%;
+   
+}
+
+.nav_bar{
+    color: rgb(146, 140, 140)
+}
+
+.nav_bar a:hover{
+    color:rgb(251, 250, 250);
+    font-size: 120%;
+}
+
+#navbar-brand{
+    color:rgb(173, 53, 10);
+    text-decoration: none;
+    font-size: 30px;
+    font-family: Impact, sans-serif;
+
+}
+
+#navbar-brand:hover{
+    color:rgb(251, 250, 250);
+    font-size: 40px;
+    
+}
 #page-container{
     margin:auto;
     position: relative;

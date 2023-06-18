@@ -78,6 +78,6 @@ Local Deployment
 
 ## Acknowledgements**
 
- gym images https://jonathanholmes.co.uk/6-of-the-best-gyms-in-london/ 
+ gym images: https://jonathanholmes.co.uk/6-of-the-best-gyms-in-london/ 
 
- 
+ code : https://www.w3schools.com
