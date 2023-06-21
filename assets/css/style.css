@@ -35,16 +35,12 @@
 
 /*-----body---------*/
 
-body{
-    margin: auto;
-}
+
 
 /*---------Hero Image--------*/
 
 div .hero-image {
     background-repeat: no-repeat;
-    
-
 }
 
 img {
