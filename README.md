@@ -78,6 +78,19 @@ Local Deployment
 
 ## Acknowledgements**
 
- gym images: https://jonathanholmes.co.uk/6-of-the-best-gyms-in-london/ 
+ gym images: 
+ 
+ hero image :https://jonathanholmes.co.uk/6-of-the-best-gyms-in-london/ 
+
+ https://www.cgtrader.com/ (gym equipment and 1)
+https://pinnaclecontracting.com/ (gym theory 1)
+https://ny.racked.com/ (gym racked)
+fitness-superstore.co.uk/weights (weights)
+orangegym.at (orange gym)
+exercise (fitness-superstore.co.uk)
+trainer (growthopsdigital.com.au)
+pt 1(mygym.co.uk)
+pt (nacams.org)
+
 
  code : https://www.w3schools.com

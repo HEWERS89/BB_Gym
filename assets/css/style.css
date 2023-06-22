@@ -1,9 +1,15 @@
 
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding: 0;
+}
 
 body, html {
+    font-family: sans-serif;
     height: 100%;
-    
   }
+
 
 /*-----navbar---------*/
 .nav_bar div {
@@ -35,14 +41,7 @@ body, html {
 }
 
 
-/*-----header---------*/
-
-
-
-/*-----body---------*/
-
-
-/*---------Hero Image--------*/
+/*---------Front page Image--------*/
 
 img {
     background-size: cover;
@@ -53,20 +52,26 @@ img {
 }
 
 
+/*----Show Room-------*/
 
+.image-gallery{
+    margin: 15px;
+    background-color:black;
+  }
+  
 
-/*-----classes-------*/
-.table-event{
-background-color: black!important;
-opacity: 0.8!important;
-float: left;
-}
-
-main .table-event{
-   
-}
-
-
+  .row {
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+  }
+  
+  .column {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 100%;
+    flex: 1;
+  }
 
 
 
