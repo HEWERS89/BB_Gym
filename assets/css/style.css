@@ -1,6 +1,8 @@
 
+
 body, html {
     height: 100%;
+    
   }
 
 /*-----navbar---------*/
@@ -40,13 +42,8 @@ body, html {
 /*-----body---------*/
 
 
-
 /*---------Hero Image--------*/
-*{
-    margin: 0px;
-    padding: 0px;
 
-}
 img {
     background-size: cover;
     background-position:center;
@@ -62,7 +59,14 @@ img {
 .table-event{
 background-color: black!important;
 opacity: 0.8!important;
+float: left;
 }
+
+main .table-event{
+   
+}
+
+
 
 
 
@@ -74,19 +78,17 @@ opacity: 0.8!important;
 footer {
     background-color: black; 
     opacity: 0.8;
-    margin-top: auto;
-
-   
+  
 }
-    
-
 
 .social-media {
     text-align: center;
+
 }
 
 .social-media li {
-    display: inline;    
+    display: inline; 
+    
 }
     
 .social-media i{
