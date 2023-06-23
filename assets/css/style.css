@@ -74,8 +74,25 @@ body, html {
 
   /*--------Contact---------*/
 
+  .googlemaps{
+    padding-top: 10% ;
+    padding-left: 5%;
+    padding-bottom: 10%;
+    
+  }
+
+  .address{
+    font-size: 15px;
+  }
 
 
+
+  .contact{
+   padding-top: 15%;
+   padding-left: 5%;
+   height:  100%;
+   width: 100%;
+  }
 
 
 
@@ -87,6 +104,7 @@ body, html {
 footer {
     background-color: black; 
     opacity: 0.8;
+    margin-bottom: 0;
   
 }
 

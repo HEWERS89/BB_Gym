@@ -15,8 +15,6 @@ The website can be accessed via this ****
 
 * Additionally, I need to easily navigate my way around the website to access the details i need. Access to social media and contact details.
 
-* I would also need to easily find what classes are on offer and what times, to be able to book around my schedule.
-
 * Furthermore, I would want the site to show the organisation is trustworthly and worth visiting for a membership.
 
 
@@ -28,9 +26,6 @@ The website can be accessed via this ****
 
 * Also have access to additional information about the organisation through their socials.
 
-* As an avid user I would want access to classes dates/times and sign up.
-
-* I would in addition have access to a  Personal trainer (PT)if desired.
 
 ### Company Goals.
 
@@ -48,7 +43,6 @@ The website can be accessed via this ****
 
 ## Show Room
 
-## Classes
 
 ## Contact
 
@@ -83,14 +77,23 @@ Local Deployment
  hero image :https://jonathanholmes.co.uk/6-of-the-best-gyms-in-london/ 
 
  https://www.cgtrader.com/ (gym equipment and 1)
+
 https://pinnaclecontracting.com/ (gym theory 1)
+
 https://ny.racked.com/ (gym racked)
+
 fitness-superstore.co.uk/weights (weights)
+
 orangegym.at (orange gym)
-exercise (fitness-superstore.co.uk)
+
+exercise (fitness-superstore.co.uk
+)
 trainer (growthopsdigital.com.au)
+
 pt 1(mygym.co.uk)
+
 pt (nacams.org)
 
-
  code : https://www.w3schools.com
+
+ Map (google map)
