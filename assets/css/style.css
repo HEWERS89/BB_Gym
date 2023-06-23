@@ -11,7 +11,7 @@ body, html {
   }
 
 
-/*-----navbar---------*/
+/*-----------navbar---------*/
 .nav_bar div {
     background-color: black;
     opacity: 0.8;
@@ -54,7 +54,7 @@ body, html {
 
 
 
-/*----Show Room-------*/
+/*--------Show Room-------*/
 
 .image-gallery{
     clear:both;
@@ -70,7 +70,19 @@ body, html {
 
 
 
-/*-----footer---------*/
+
+
+  /*--------Contact---------*/
+
+
+
+
+
+
+
+
+
+/*---------footer---------*/
 
 footer {
     background-color: black; 
