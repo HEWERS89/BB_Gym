@@ -1,4 +1,7 @@
+![BB Gym](/documentation/bb_gym.jpeg)
+
 # Beefs & Babe Gym
+
 
  ## About BB Gym
 
@@ -6,7 +9,7 @@ Beefs & Babe Gym (BB Gym) website is for users to locate and get a 'feel' for th
 New and frequent visiotrs can find information and contact / location details of the gym with ease.
 The site will show the space, some equipment and give a friendly atmosphere with emphasis on 'serious training'.
 
-The website can be accessed via this **** 
+The website can be accessed via this [link] (https://github.com/HEWERS89/BB_Gym.git "BB Gym")
 
 ## User Stories /  Goals
 
@@ -70,6 +73,16 @@ The contact page has simple layout easy to use for contact in person by visiting
 
 # Colour scheme
 
+![Color pallet](documentation/rgb_146_140_140.jpeg)
+
+![Color Pallet](documentation/rgb_173_53_10.jpeg)
+
+![Color Pallet](documentation/rgb_251_250_250.jpeg)
+
+* Black was used with the opacity of 0.8 in footers and nav bar.
+* Orange/red was used throughout due to being gender neutral and clean against the background. It is also used on the BB 'logo' to help it stand out.
+* Off white was used for links. 
+* Grey is a neutral balance between the red black and off white. 
 
 
 ## Wireframes
@@ -103,13 +116,13 @@ If you use GitPod ~~~~~~~~~
 
 
 ## Languages
-* HTML for the foundation of the site
-* CSS used to add style and layout
-* Flexbox to arrange items and make them responsive
-* Balsamiq used to make wireframes
-* VS code used as my tool for writing and editing code
-* Github used to host the code of the website
-* Gitpod an open source CDE
+ [HTML] for the foundation of the site
+ [CSS] used to add style and layout
+ [Flexbox] to arrange items and make them responsive
+ [Balsamiq] used to make wireframes
+ [VScode] used as my tool for writing and editing code
+ [Github] used to host the code of the website
+[Gitpod] an open source CDE
 
 ## Credit
 
@@ -147,3 +160,6 @@ kevin powell
 
 Code institute 
 
+https://convertingcolors.com/ used for color palette 
+
+[def]: https://github.com/HEWERS89/BB_Gym.git
