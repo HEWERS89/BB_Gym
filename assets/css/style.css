@@ -59,6 +59,13 @@ body html {
 
 
 
+.jumbotron{
+  background-color: black;
+  opacity: 0.8;
+  text-align: center;
+  color: rgb(173, 53, 10);
+}
+
 
 /*--------Show Room-------*/
 

@@ -39,13 +39,38 @@ The website can be accessed via this ****
 
 ## Features
 
+* Navigation
+The NavBar is situated at the top of the screen.
+The BB is the link to the home page. 
+Showroom links to pictures of the gm enviroment 
+Contact links to Address in text form and google maps. Also a contact us form. 
+
+It has a simple design and is easy to use, the links have hover effect and change color. 
+
+The Navbar is responsive and adjusts to fit the screen.
+
+
+## Footer
+
+The footer contains all social media links for the gym which open in a new tab.
+
 ## Home Page
+The home page has a simpke design with a main hero image. 
+It is clean and enhances that this is a gym webpage.
 
 ## Show Room
+The show room has pictures showing equipment and the public exercising, with and without PT. 
+Its highlights the friendly enviroment and welcomes potential members to visit.
 
 ## Contact
 
+The contact page has simple layout easy to use for contact in person by visiting or via a contact form complete with submit button.
+
 ## Design
+
+# Colour scheme
+
+
 
 ## Wireframes
 
@@ -60,14 +85,31 @@ Manual testing
 
 Bugs
 
-## Set up 
-Deployment
+## Set up
 
-Local Deployment 
+# Deployment
+
+The site was deployed to GitHub. 
+
+
+# Local Deployment
+To make a local copy of this project, you can clone it. In your IDE, type the following command:
+git clone: https://github.com/HEWERS89/BB_Gym.git
+
+If you use GitPod ~~~~~~~~~
 
 ## Tools
 
+
+
 ## Languages
+* HTML for the foundation of the site
+* CSS used to add style and layout
+* Flexbox to arrange items and make them responsive
+* Balsamiq used to make wireframes
+* VS code used as my tool for writing and editing code
+* Github used to host the code of the website
+* Gitpod an open source CDE
 
 ## Credit
 
@@ -100,4 +142,8 @@ pt (nacams.org)
  Map (google map)
 
 flex box Kevin powell 
+
+kevin powell 
+
+Code institute 
 
