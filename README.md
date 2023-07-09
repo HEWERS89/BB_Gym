@@ -69,6 +69,10 @@ Its highlights the friendly enviroment and welcomes potential members to visit.
 
 The contact page has simple layout easy to use for contact in person by visiting or via a contact form complete with submit button.
 
+## Classes
+
+This page shows the current gym schedule in an easy to read layout.
+
 ## Design
 
 # Colour scheme
