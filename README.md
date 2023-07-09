@@ -9,7 +9,7 @@ Beefs & Babe Gym (BB Gym) website is for users to locate and get a 'feel' for th
 New and frequent visiotrs can find information and contact / location details of the gym with ease.
 The site will show the space, some equipment and give a friendly atmosphere with emphasis on 'serious training'.
 
-The website can be accessed via this [link] (https://github.com/HEWERS89/BB_Gym.git "BB Gym")
+The website can be accessed via this [link](https://github.com/HEWERS89/BB_Gym.git)
 
 ## User Stories /  Goals
 
@@ -89,15 +89,6 @@ The contact page has simple layout easy to use for contact in person by visiting
 
 
 
-## Testing
-Browsers
-
-Responsive
-
-Manual testing
-
-Bugs
-
 ## Set up
 
 # Deployment
@@ -109,57 +100,63 @@ The site was deployed to GitHub.
 To make a local copy of this project, you can clone it. In your IDE, type the following command:
 git clone: https://github.com/HEWERS89/BB_Gym.git
 
-If you use GitPod ~~~~~~~~~
 
 ## Tools
 
 
 
 ## Languages
- [HTML] for the foundation of the site
- [CSS] used to add style and layout
- [Flexbox] to arrange items and make them responsive
- [Balsamiq] used to make wireframes
- [VScode] used as my tool for writing and editing code
- [Github] used to host the code of the website
-[Gitpod] an open source CDE
+ [HTML] for the foundation of the site.
+
+ [CSS] used to add style and layout.
+
+ [Flexbox] to arrange items and make them responsive.
+
+ [Balsamiq] used to make wireframes.
+
+ [VScode] used as my tool for writing and editing code.
+
+ [Github] used to host the code of the website.
+
+ [Gitpod] an open source CDE
 
 ## Credit
 
-## Acknowledgements**
 
- gym images: 
+## Acknowledgements
+
+ Gym Images
  
- hero image :https://jonathanholmes.co.uk/6-of-the-best-gyms-in-london/ 
+ [Hero](https://jonathanholmes.co.uk/6-of-the-best-gyms-in-london/) 
 
- https://www.cgtrader.com/ (gym equipment and 1)
+ [Gym Equipment](https://www.cgtrader.com/)
 
-https://pinnaclecontracting.com/ (gym theory 1)
+ [Gym Theory](https://pinnaclecontracting.com/)
 
-https://ny.racked.com/ (gym racked)
+ [Gym Racked](https://ny.racked.com/)
 
-fitness-superstore.co.uk/weights (weights)
+ [Weights](https://fitness-superstore.co.uk/weights)
 
-orangegym.at (orange gym)
+ [Orange Gym](https://orangegym.at)
 
-exercise (fitness-superstore.co.uk
-)
-trainer (growthopsdigital.com.au)
+ [Exercise](https://\Fitness-superstore.co.uk)
 
-pt 1(mygym.co.uk)
+ [Trainer](https://growthopsdigital.com.au)
 
-pt (nacams.org)
+ [Pt 1](https://mygym.co.uk)
 
- code : https://www.w3schools.com
+ [Pt](https://nacams.org)
 
- Map (google map)
+ Help with code
 
-flex box Kevin powell 
+ [Code](https://www.w3schools.com)
 
-kevin powell 
+ [Flex box Kevin powell](https://www.youtube.com/watch?v=vQAvjof1oe4)
 
-Code institute 
+ [Code institute](https://learn.codeinstitute.net/) 
 
-https://convertingcolors.com/ used for color palette 
+ Google Map
 
-[def]: https://github.com/HEWERS89/BB_Gym.git
+ [Map](https://www.google.com/maps)
+
+ [Color Palette generator](https://convertingcolors.com/)
