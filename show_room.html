@@ -18,18 +18,28 @@
 <body>
   <header>
     <!--Nav bar-->
-    <div class="nav_bar">
-      <nav class="navbar navbar-expand-lg bg-body-tertiary">
-        <div class="container-fluid">
-          <a id="navbar-brand" aria-current="page" href="index.html">BB Gym</a>
-          <a class="nav-link active" href="index.html">Home</a>
-          <a class="nav-link active" href="show_room.html">Show Room</a>
-          <a class="nav-link active" href="contact.html">Contact</a>
-          <a class="nav-link active" href="classes.html"> Classes</a>
+  <div class="nav_bar">
+    <nav class="navbar navbar-expand-lg bg-body-tertiary flex-sm-column">
+      <div class="container-fluid">
+        <a id="navbar-brand" aria-current="page" href="index.html" aria-label="BB Gym navigate to home page">BB Gym</a>
+        <a class="nav-link active" href="index.html" aria-label="Navigate to home page">Home</a>
+            <a class="nav-link active"  href="show_room.html" aria-label="Navigate to show room for picture gallery">Show Room</a>
+            <a class="nav-link active" href="classes.html" aria-label="Navigate to classes"> Classes</a>
+            <a class="nav-link active" href="contact.html" aria-label="Navigate to contact page">Contact</a>
         </div>
-      </nav>
-    </div>
-  </header>
+    </nav>
+  </div>
+</header>
+
+<div class="jumbotron">
+  <h1 class="display-4">Gym Membership</h1>
+  <p class="lead">Only £34.99 a month! 24hr access! Or £5 pay as you go!</p>
+  <hr class="my-4">
+  <p>Come visit us or Get in touch.</p>
+  <p class="lead lead-last-paragraph" >
+    <a class="btn btn-primary btn-lg" href="contact.html" role="button" aria-label="Contact Us">Contact Us</a>
+  </p>
+</div>
 
   <main>
   <div id="page-container" class="show_room_bg">
@@ -53,15 +63,15 @@
   <footer>
     <ul class="social-media">
       <li>
-        <a target="_blank" href="https://instagram.com" rel="noopener" label="Visit our Instagram">
+        <a target="_blank" href="https://instagram.com" rel="noopener" label="Visit our Instagram" aria-label="Visit our instagram">
           <i class="fab fa-instagram"></i></a>
       </li>
       <li>
-        <a target="blank" href="https://facebook.com" rel="noopener" label="Visit our Facebook">
+        <a target="blank" href="https://facebook.com" rel="noopener" label="Visit our Facebook" aria-label="Visit our facebook">
           <i class="fab fa-facebook"></i></a>
       </li>
       <li>
-        <a target="blank" href="http://googlemaps.com" rel="noopener" label="Location">
+        <a target="blank" href="http://googlemaps.com" rel="noopener" label="Location" aria-label="Our location on googlemaps">
           <i class="fa-solid fa-location-dot"></i></a>
       </li>
     </ul>
