@@ -91,25 +91,36 @@ This page shows the current gym schedule in an easy to read layout.
 
 ## Wireframes
 
+[Homepage Laptop](documentation/wireframes/homescreen_laptop.png)
+
+[Homepage ipad | phone](documentation/wireframes/homescreen.png)
+
+[Showroom Laptop](documentation/wireframes/showroom_laptop.png)
+
+[Showroom ipad | phone](documentation/wireframes/showroom.png)
+
+[Contact Laptop](documentation/wireframes/contact_laptop.png)
+
+[Contact ipad | phone](documentation/wireframes/contact.png)
 
 
 ## Set up
 
 # Deployment
 
-The site was deployed to GitHub. 
+The site was deployed to GitHub.
 
+Follow the steps to deploy:
+
+* In the Github repository, open the settings tab
+* From the drop-dowm menu, selct **Main** branch and then **Save**
 
 # Local Deployment
 To make a local copy of this project, you can clone it. In your IDE, type the following command:
 git clone: https://github.com/HEWERS89/BB_Gym.git
 
 
-## Tools
-
-
-
-## Languages
+# Languages
  [HTML] for the foundation of the site.
 
  [CSS] used to add style and layout.
@@ -124,10 +135,7 @@ git clone: https://github.com/HEWERS89/BB_Gym.git
 
  [Gitpod] an open source CDE
 
-## Credit
-
-
-## Acknowledgements
+## Media
 
  Gym Images
  
@@ -151,16 +159,25 @@ git clone: https://github.com/HEWERS89/BB_Gym.git
 
  [Pt](https://nacams.org)
 
+ ## Credits
+
  Help with code
 
  [Code](https://www.w3schools.com)
 
  [Flex box Kevin powell](https://www.youtube.com/watch?v=vQAvjof1oe4)
 
- [Code institute](https://learn.codeinstitute.net/) 
+ [Bootstrap](https://getbootstrap.com/)
+
+ [Fontawsome](https://fontawesome.com/)
+
 
  Google Map
 
  [Map](https://www.google.com/maps)
 
  [Color Palette generator](https://convertingcolors.com/)
+
+ ## Acknowledgments 
+
+[Code institute](https://learn.codeinstitute.net/) Tutor Juliia Konovalova 
