@@ -4,14 +4,18 @@
   padding: 0;
 }
 
-ul{
+ul {
   margin:0 !important;
 }
 
-body html {
-  font-family: sans-serif;
-  height: 100%;
+body{
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
 
+main{
+  flex: 1.0 auto;
 }
 
 /*-----------navbar---------*/
@@ -19,7 +23,6 @@ body html {
   background-color: black;
   opacity: 0.8;
   height: 60px;
-
 }
 
 .bg-body-tertiary {
@@ -43,8 +46,6 @@ body html {
 
 #navbar-brand:hover {
   color: rgb(251, 250, 250);
-
-
 }
 
 
@@ -54,7 +55,6 @@ body html {
   height: 100vh;
   width: 100%;
   display: flex;
-
 }
 
 .hero-image img {
@@ -63,7 +63,6 @@ body html {
   display: block;
   object-fit: cover;
 }
-
 
 .lead-last-paragraph {
   margin-bottom: 0 !important;
@@ -84,7 +83,6 @@ body html {
   opacity: 0.8;
 }
 
-
 .image-gallery {
   clear: both;
   line-height: 0;
@@ -97,10 +95,6 @@ body html {
   width: 100%;
 }
 
-
-
-
-
 /*--------Contact---------*/
 
 .form_container{
@@ -111,30 +105,24 @@ body html {
   align-items: center;
 }
 
+form{
+  width: 60%;
+  margin: 0 auto;
+  padding: 2em;
+  margin-bottom: 2em;
+}
+
 .address {
   margin: auto;
 }
-
 
 .container {
   display: flex;
 }
 
-
 .btn {
   margin: 10px;
 }
-
-/*
-.contact{
-  text-align: center;
-}
-/*
-
-
-
-
-
 
 /*---------footer---------*/
 
@@ -143,17 +131,14 @@ footer {
   opacity: 0.8;
   margin-bottom: 0;
   position: relative;
-
 }
 
 .social-media {
   text-align: center;
-
 }
 
 .social-media li {
   display: inline;
-
 }
 
 .social-media i {
@@ -161,21 +146,13 @@ footer {
   margin: 1%;
   padding: 5%;
   color: rgb(146, 140, 140);
-
 }
 
 i:hover {
   color: rgb(173, 53, 10);
 }
 
-
-
-
 /*---------media---------*/
-
-
-/*--showroom--*/
-
 
 @media (max-width:600px) {
   .image-gallery {
@@ -184,27 +161,15 @@ i:hover {
     column-gap: 0px;
     margin: 2px;
   }
-}
-
-
-
-/*--contact--*/
-
-@media (max-width:600px) {
-  .googlemaps {}
-
   .contact-container{
     flex-direction: column!important;
   }
   .address {
-    font-size: 0.5rem;
-
-  }
-
-  .address h1, .address h2 {
     font-size: 1rem;
   }
- 
+  .address h1, .address h2 {
+    font-size: 1.5rem;
+  }
   .btn {
     font-size: 0.5rem;
   }
