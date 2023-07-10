@@ -9,7 +9,7 @@ Beefs & Babe Gym (BB Gym) website is for users to locate and get a 'feel' for th
 New and frequent visiotrs can find information and contact / location details of the gym with ease.
 The site will show the space, some equipment and give a friendly atmosphere with emphasis on 'serious training'.
 
-The website can be accessed via this [link](https://github.com/HEWERS89/BB_Gym.git)
+The website can be accessed via this [link](https://hewers89.github.io/BB_Gym/)
 
 ## User Stories /  Goals
 
@@ -42,7 +42,7 @@ The website can be accessed via this [link](https://github.com/HEWERS89/BB_Gym.g
 
 ## Features
 
-* Navigation
+Navigation
 The NavBar is situated at the top of the screen.
 The BB is the link to the home page. 
 Showroom links to pictures of the gm enviroment 
@@ -75,7 +75,7 @@ This page shows the current gym schedule in an easy to read layout.
 
 ## Design
 
-# Colour scheme
+### Colour scheme
 
 ![Color pallet](documentation/rgb_146_140_140.jpeg)
 
@@ -104,9 +104,7 @@ This page shows the current gym schedule in an easy to read layout.
 [Contact ipad | phone](documentation/wireframes/contact.png)
 
 
-## Set up
-
-# Deployment
+## Deployment
 
 The site was deployed to GitHub.
 
@@ -115,12 +113,12 @@ Follow the steps to deploy:
 * In the Github repository, open the settings tab
 * From the drop-dowm menu, selct **Main** branch and then **Save**
 
-# Local Deployment
+## Local Deployment
 To make a local copy of this project, you can clone it. In your IDE, type the following command:
-git clone: https://github.com/HEWERS89/BB_Gym.git
+git clone https://github.com/HEWERS89/BB_Gym.git
 
 
-# Languages
+## Languages
  [HTML] for the foundation of the site.
 
  [CSS] used to add style and layout.
@@ -137,7 +135,7 @@ git clone: https://github.com/HEWERS89/BB_Gym.git
 
 ## Media
 
- Gym Images
+ #### Gym Images
  
  [Hero](https://jonathanholmes.co.uk/6-of-the-best-gyms-in-london/) 
 
@@ -161,8 +159,6 @@ git clone: https://github.com/HEWERS89/BB_Gym.git
 
  ## Credits
 
- Help with code
-
  [Code](https://www.w3schools.com)
 
  [Flex box Kevin powell](https://www.youtube.com/watch?v=vQAvjof1oe4)
@@ -171,13 +167,10 @@ git clone: https://github.com/HEWERS89/BB_Gym.git
 
  [Fontawsome](https://fontawesome.com/)
 
-
- Google Map
-
- [Map](https://www.google.com/maps)
+ [Map](https://www.google.com/maps) 
 
  [Color Palette generator](https://convertingcolors.com/)
 
  ## Acknowledgments 
 
-[Code institute](https://learn.codeinstitute.net/) Tutor Juliia Konovalova 
+[Code institute](https://learn.codeinstitute.net/) Mentor Juliia Konovalova 
