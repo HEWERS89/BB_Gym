@@ -175,6 +175,20 @@ git clone https://github.com/HEWERS89/BB_Gym.git
 
 [Internet Explorer](https://www.microsoft.com/en-gb/download/internet-explorer.aspx) Manually tested on google chrome for functionality , apperance and responsivness. All features passed.
 
+### Validator
+
+[Home](documentation/html_validator_index.pdf)
+
+[Show Room](documentation/html_validator_showroom.pdf)
+
+[Classes](documentation/html_validator_classes.pdf)
+
+[Contact](documentation/html_validator_contact.pdf)
+
+[Response](documentation/html_validator_response.pdf)
+
+[Style](documentation/css_validator.pdf)
+
 ## Bugs
 
 * There was an empty line above the footer due to bootstrap. I used devtools to access and target ul aplied no margin via !important.
@@ -243,7 +257,7 @@ git clone https://github.com/HEWERS89/BB_Gym.git
 
  [Light House](https://developer.chrome.com/docs/lighthouse/overview/)
 
-
+[HTML | CSS Validator](https://validator.w3.org/nu/)
 
 
  ## Acknowledgments 

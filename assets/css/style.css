@@ -93,7 +93,7 @@ main{
 
 .image-gallery img {
   width: 100%;
-  opacity: none;
+  opacity: 0;
 }
 
 /*--------Contact---------*/
@@ -114,10 +114,8 @@ display: flex;
 form{
   width: 60%;
   margin: 0;
-  padding: 2em;
-  margin-bottom: 2em;
-  padding-left: 10px;
-  align-items: center;
+  padding-left: 2rem;
+  margin-bottom: 2rem;
 }
 
 .address {
