@@ -119,43 +119,43 @@ git clone https://github.com/HEWERS89/BB_Gym.git
 
 
 ## Languages
- [HTML] for the foundation of the site.
+ [HTML](https://www.w3schools.com/html/) for the foundation of the site.
 
- [CSS] used to add style and layout.
+ [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) used to add style and layout.
 
- [Flexbox] to arrange items and make them responsive.
+ [Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) to arrange items and make them responsive.
 
- [Balsamiq] used to make wireframes.
+ [Balsamiq](https://balsamiq.com/) used to make wireframes.
 
- [VScode] used as my tool for writing and editing code.
+ [VScode](https://code.visualstudio.com/) used as my tool for writing and editing code.
 
- [Github] used to host the code of the website.
+ [Github](https://github.com/) used to host the code of the website.
 
- [Gitpod] an open source CDE
+ [Gitpod](https://www.gitpod.io/) an open source CDE
 
 ## Media
 
  #### Gym Images
  
- [Hero](https://jonathanholmes.co.uk/6-of-the-best-gyms-in-london/) 
+ [Hero](https://jonathanholmes.co.uk/6-of-the-best-gyms-in-london/) Hand holding barbell 
 
- [Gym Equipment](https://www.cgtrader.com/)
+ [Gym Equipment](https://www.cgtrader.com/) Treadmills and spin bikes in gym with orange and black theme
 
  [Gym Theory](https://pinnaclecontracting.com/)
 
- [Gym Racked](https://ny.racked.com/)
+ [Gym Racked](https://ny.racked.com/) Group of women during an exercise class
 
- [Weights](https://fitness-superstore.co.uk/weights)
+ [Weights](https://fitness-superstore.co.uk/weights) Barbells on stand within an orange gym
 
- [Orange Gym](https://orangegym.at)
+ [Orange Gym](https://orangegym.at) Man on treadmill in gym with orange and black gym
 
- [Exercise](https://\Fitness-superstore.co.uk)
+ [Exercise](https://\Fitness-superstore.co.uk) Man exercising using gym equipment 
 
- [Trainer](https://growthopsdigital.com.au)
+ [Trainer](https://growthopsdigital.com.au) Woman exercising with a personal trainer
 
- [Pt 1](https://mygym.co.uk)
+ [Pt 1](https://mygym.co.uk) Personal trainer smilling with people exercising in background
 
- [Pt](https://nacams.org)
+ [Pt](https://nacams.org) Woman deadlifting with personal trainer
 
  ## Credits
 
