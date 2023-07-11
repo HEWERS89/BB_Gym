@@ -117,6 +117,18 @@ Follow the steps to deploy:
 To make a local copy of this project, you can clone it. In your IDE, type the following command:
 git clone https://github.com/HEWERS89/BB_Gym.git
 
+
+
+## Testing
+
+* Home [Desktop](documentation/front_page_(lighthouse)_laptop.pdf) |
+[Mobile](documentation/front_page_(lighthouse)_mobile.pdf) 
+
+* Contact [Desktop](documentation/contact_(lighthouse)_laptop.pdf) | 
+[Mobile](documentation/contact_(lighthouse)_mobile.pdf)
+
+*
+
 ## Bugs
 
 * There was an empty line above the footer due to bootstrap. I used devtools to access and target ul aplied no margin via !important.
