@@ -97,6 +97,11 @@ main{
 
 /*--------Contact---------*/
 
+.googlemaps{
+padding-top: 10px;
+display: flex;
+}
+
 .form_container{
   width:100%;
   display:flex;
@@ -122,6 +127,14 @@ form{
 
 .btn {
   margin: 10px;
+}
+
+.response_message{
+ background-color: black;
+ opacity: 0.8;
+ text-align: center;
+ justify-content: center;
+ color: rgb(173, 53, 10);
 }
 
 /*---------footer---------*/
@@ -164,6 +177,9 @@ i:hover {
   .contact-container{
     flex-direction: column!important;
   }
+  .googlemaps{
+    flex-direction: column;
+  }
   .address {
     font-size: 1rem;
   }
@@ -177,3 +193,5 @@ i:hover {
     font-size: 0.5rem;
   }
 }
+
+

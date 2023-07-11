@@ -125,6 +125,8 @@ git clone https://github.com/HEWERS89/BB_Gym.git
 
 * The form would not center so i added a class name and targeted this with flexbox and justified content. 
 
+* GoogleMaps and the Address when at 900px would not seperate i therefore targeted it with media query. 
+
 
 ## Languages
  [HTML](https://www.w3schools.com/html/) for the foundation of the site.
