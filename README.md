@@ -121,13 +121,20 @@ git clone https://github.com/HEWERS89/BB_Gym.git
 
 ## Testing
 
-* Home [Desktop](documentation/front_page_(lighthouse)_laptop.pdf) |
-[Mobile](documentation/front_page_(lighthouse)_mobile.pdf) 
+* Home [Desktop](documentation/frontpage_laptop.pdf) |
+[Mobile](documentation/frontpage_mobile.pdf) 
 
-* Contact [Desktop](documentation/contact_(lighthouse)_laptop.pdf) | 
-[Mobile](documentation/contact_(lighthouse)_mobile.pdf)
+* Showroom [Desktop](documentation/showroom_laptop.pdf)|
+[Mobile](documentation/showroom_mobile.pdf)
 
-*
+* Contact [Desktop](documentation/contact_laptop.pdf) | 
+[Mobile](documentation/contact_mobile.pdf)
+
+* Classes [Desktop](documentation/classes_laptop.pdf)|
+[Mobile](documentation/classes_laptop.pdf)
+
+* Contact [Desktop]()|
+[Mobile]()
 
 ## Bugs
 
