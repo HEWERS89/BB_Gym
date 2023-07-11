@@ -117,6 +117,14 @@ Follow the steps to deploy:
 To make a local copy of this project, you can clone it. In your IDE, type the following command:
 git clone https://github.com/HEWERS89/BB_Gym.git
 
+## Bugs
+
+* There was an empty line above the footer due to bootstrap. I used devtools to access and target ul aplied no margin via !important.
+
+* The footer was not sticking to the bottom of the page with less content, I added a body and main rule to ensure the footer stick to the bottom of the page.
+
+* The form would not center so i added a class name and targeted this with flexbox and justified content. 
+
 
 ## Languages
  [HTML](https://www.w3schools.com/html/) for the foundation of the site.
