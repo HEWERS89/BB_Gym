@@ -99,10 +99,15 @@ This page shows the current gym schedule in an easy to read layout.
 
 [Showroom ipad | phone](documentation/wireframes/showroom.png)
 
+[Classes Laptop](documentation/classes_laptop.pdf)
+
+[Classes ipad | phone](documentation/classes_mobile.pdf)
+
 [Contact Laptop](documentation/wireframes/contact_laptop.png)
 
 [Contact ipad | phone](documentation/wireframes/contact.png)
 
+During development the design for classes changed due to complexity of design and self knowledge, although a simpler design it is easier for the user to access.
 
 ## Deployment
 
