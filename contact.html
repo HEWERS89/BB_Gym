@@ -48,17 +48,20 @@
     <form method="GET" action="response.html">
       <div class="flex-column col-md-4 col-sm-2">
         <label for="inputname">Name</label>
-        <input type="name" class="form-control" id="inputname" placeholder="Name">
+        <input type="name" class="form-control" id="inputname" placeholder="Name"required
+        class="text_input">
       </div>
 
       <div class="form-group col-md-6 col-sm-4">
         <label for="inputemail">Email</label>
-        <input type="email" class="form-control" id="inputemail" placeholder="Email">
+        <input type="email" class="form-control" id="inputemail" placeholder="Email" required
+        class="text_input">
       </div>
 
       <div class="form-group col-md-6 col-sm-4">
         <label for="inputtextarea"></label>
-        <textarea class="form-control" id="inputtextarea" placeholder="Input request/question" rows="3"></textarea>
+        <textarea class="form-control" id="inputtextarea" required
+        class="text_input" placeholder="Input request/question" rows="3"></textarea>
       </div>
       <button type="submit" class="btn btn-secondary">Submit</button>
     </form>

@@ -121,6 +121,8 @@ git clone https://github.com/HEWERS89/BB_Gym.git
 
 ## Testing
 
+### Light House
+
 * Home [Desktop](documentation/frontpage_laptop.pdf) |
 [Mobile](documentation/frontpage_mobile.pdf) 
 
@@ -133,8 +135,40 @@ git clone https://github.com/HEWERS89/BB_Gym.git
 * Classes [Desktop](documentation/classes_laptop.pdf)|
 [Mobile](documentation/classes_laptop.pdf)
 
-* Contact [Desktop]()|
-[Mobile]()
+
+
+### Chrome Responsive Viewer
+
+* [Home page](documentation/responsive_frontpage.png)
+* [Showroom](documentation/responsive_showroom.png)
+* [Contact page](documentation/responsive_contactpage.png)
+* [Classes](documentation/responsive_classespage.png)
+
+### Manual Testing
+
+
+| Feature | Action | Expected result | Tested | Passed | Comments |
+| --- | --- | --- | --- | --- | --- |
+| Navbar | | | | | |
+| BB | Click on the "Home" link | The user is redirected to the main page | Yes | Yes | - |
+| Home | Click on the "Home" link | The user is redirected to the main page | Yes | Yes | - |
+| Showroom | Click on the "Showroom" link | The user is redirected to the gallery page | Yes | Yes | - |
+| Classes | Click on the "Classes" link | The user is redirected to the main classes page | Yes | Yes | - |
+| Contact | Click on the "Contact" link | The user is redirected to the contact page | Yes | Yes | - |
+| Footer | | | | | |
+| Instagram icon in the footer | Click on the Instagram icon | The user is redirected to the Instagram page | Yes | Yes | - |
+| Facebook icon in the footer | Click on the Facebook icon | The user is redirected to the Facebook page | Yes | Yes | - |
+| Location icon | Click on the Location icon | The user is redirected to the Contact us page | Yes | Yes | - |
+| Home page | | | | | |
+| "Contact Us" button in banner on each page | Click on the "Contact Us" button | The user is redirected to the contact page | Yes | Yes | - |
+| Contact page | | | | | |
+| Name input | Enter Name | Name is entered| Yes | Yes | If user doesn't enter the first name, the error message appears |
+| Email input | Enter the email | The email is entered | Yes | Yes | If user doesn't enter the email, the error message appears. If user enters not valid email, the error message appears |
+| Message input | Enter message | Message is entered | Yes | Yes | If user doesn't enter message, the error message appears.
+| "Submit" button | Click on the "Submit" button | The user is redirected to the response page | Yes | Yes | - |
+| Response page | | | | | |
+| Response message | The user will be automatically redirected to the home page after 10 seconds | The user is redirected to the home page | Yes | Yes | - |
+
 
 ## Bugs
 

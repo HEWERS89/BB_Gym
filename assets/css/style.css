@@ -139,6 +139,8 @@ form{
  justify-content: center;
  margin: 70px;
  color: rgb(173, 53, 10);
+ border: solid;
+ font-size: 2rem;
 }
 
 /*---------footer---------*/
