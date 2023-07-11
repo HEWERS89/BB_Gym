@@ -162,13 +162,18 @@ git clone https://github.com/HEWERS89/BB_Gym.git
 | Home page | | | | | |
 | "Contact Us" button in banner on each page | Click on the "Contact Us" button | The user is redirected to the contact page | Yes | Yes | - |
 | Contact page | | | | | |
-| Name input | Enter Name | Name is entered| Yes | Yes | If user doesn't enter the first name, the error message appears |
+| Name input | Enter Name | Name is entered| Yes | Yes | If user doesn't enter name, the error message appears |
 | Email input | Enter the email | The email is entered | Yes | Yes | If user doesn't enter the email, the error message appears. If user enters not valid email, the error message appears |
 | Message input | Enter message | Message is entered | Yes | Yes | If user doesn't enter message, the error message appears.
 | "Submit" button | Click on the "Submit" button | The user is redirected to the response page | Yes | Yes | - |
 | Response page | | | | | |
 | Response message | The user will be automatically redirected to the home page after 10 seconds | The user is redirected to the home page | Yes | Yes | - |
 
+### Compatability
+
+[Google Chrome](https;//google.co.uk)  Manually tested on google chrome for functionality , apperance and responsivness. All features passed.
+
+[Internet Explorer](https://www.microsoft.com/en-gb/download/internet-explorer.aspx) Manually tested on google chrome for functionality , apperance and responsivness. All features passed.
 
 ## Bugs
 
@@ -178,7 +183,7 @@ git clone https://github.com/HEWERS89/BB_Gym.git
 
 * The form would not center so i added a class name and targeted this with flexbox and justified content. 
 
-* GoogleMaps and the Address when at 900px would not seperate i therefore targeted it with media query. 
+* GoogleMaps and the Address when at 900px would not seperate, therefore I targeted it with media query. 
 
 
 ## Languages
@@ -222,17 +227,24 @@ git clone https://github.com/HEWERS89/BB_Gym.git
 
  ## Credits
 
- [Code](https://www.w3schools.com)
+ [Code](https://www.w3schools.com) Used to understand flexbox and box models
 
- [Flex box Kevin powell](https://www.youtube.com/watch?v=vQAvjof1oe4)
+ [Flex box Kevin powell](https://www.youtube.com/watch?v=vQAvjof1oe4) Videos on flexbox
 
- [Bootstrap](https://getbootstrap.com/)
+ [Bootstrap](https://getbootstrap.com/) 
 
- [Fontawsome](https://fontawesome.com/)
+ [Fontawesome](https://fontawesome.com/)
 
  [Map](https://www.google.com/maps) 
 
  [Color Palette generator](https://convertingcolors.com/)
+
+ [Chrome Responsive Viewer](https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb)
+
+ [Light House](https://developer.chrome.com/docs/lighthouse/overview/)
+
+
+
 
  ## Acknowledgments 
 
