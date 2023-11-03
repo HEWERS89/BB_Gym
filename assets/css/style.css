@@ -5,17 +5,17 @@
 }
 
 ul {
-  margin:0 !important;
+  margin: 0 !important;
 }
 
-body{
+body {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
 }
 
-main{
-  flex: 1.0 auto;
+main {
+  flex: 1 auto;
 }
 
 /*-----------navbar---------*/
@@ -48,7 +48,6 @@ main{
   color: rgb(251, 250, 250);
 }
 
-
 /*---------Front page Image--------*/
 
 .hero-image {
@@ -76,6 +75,46 @@ main{
   color: rgb(173, 53, 10);
 }
 
+/*------audio---------*/
+audio {
+  background-color: black!important;
+  width: 100vw;
+  height: 7vh;
+}
+
+audio::-webkit-media-controls-panel {
+  border-radius: 0%;
+}
+
+audio::-webkit-media-controls-panel {
+  background-color: black;
+  opacity: 0.8;
+}
+
+audio::-webkit-media-controls-mute-button {
+  background-color: rgb(173, 53, 10);
+  border-radius: 20px;
+}
+
+audio::-webkit-media-controls-play-button{
+  background-color: rgb(173, 53, 10);
+  border-radius: 20px;
+}
+audio::-webkit-media-controls-current-time-display{
+  color: rgb(173, 53, 10);
+}
+
+audio::-webkit-media-controls-time-remaining-display{
+  color: rgb(146, 140, 140);
+}
+
+audio::-webkit-media-controls-timeline {
+  background-color: rgb(146, 140, 140);
+  border-radius: 25px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
 
 /*--------Show Room-------*/
 .show_room_bg {
@@ -97,20 +136,20 @@ main{
 
 /*--------Contact---------*/
 
-.googlemaps{
-padding-top: 10px;
-display: flex;
+.googlemaps {
+  padding-top: 10px;
+  display: flex;
 }
 
-.form_container{
-  width:100%;
-  display:flex;
+.form_container {
+  width: 100%;
+  display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
 }
 
-form{
+form {
   width: 60%;
   margin: 0;
   padding-left: 2rem;
@@ -129,15 +168,15 @@ form{
   margin: 10px;
 }
 
-.response_message{
- background-color: black;
- opacity: 0.8;
- text-align: center;
- justify-content: center;
- margin: 70px;
- color: rgb(173, 53, 10);
- border: solid;
- font-size: 2rem;
+.response_message {
+  background-color: black;
+  opacity: 0.8;
+  text-align: center;
+  justify-content: center;
+  margin: 70px;
+  color: rgb(173, 53, 10);
+  border: solid;
+  font-size: 2rem;
 }
 
 /*---------footer---------*/
@@ -170,22 +209,23 @@ i:hover {
 
 /*---------media---------*/
 
-@media (max-width:600px) {
+@media (max-width: 600px) {
   .image-gallery {
     line-height: 0;
     column-count: 1;
     column-gap: 0px;
   }
-  .contact-container{
-    flex-direction: column!important;
+  .contact-container {
+    flex-direction: column !important;
   }
-  .googlemaps{
+  .googlemaps {
     flex-direction: column;
   }
   .address {
     font-size: 1rem;
   }
-  .address h1, .address h2 {
+  .address h1,
+  .address h2 {
     font-size: 1.5rem;
   }
   .btn {
@@ -196,8 +236,8 @@ i:hover {
   }
 }
 
-@media(min-width:600px) {
-  .image-gallery{
+@media (min-width: 600px) {
+  .image-gallery {
     column-count: 2;
   }
 }
